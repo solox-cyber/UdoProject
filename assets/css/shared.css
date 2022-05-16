@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+    color: cornflowerblue;
+  }
+  
+  nav a:hover{
+    
+    color: black;
+    background-color: cornflowerblue;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+  h1,h2,h3{
+   font-family: 'Lato', sans-serif;
+}
+
+.name a{
+    color: black;
+}
+
